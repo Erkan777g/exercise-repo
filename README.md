@@ -7,4 +7,8 @@ repo made for exercise
 master edit
 
 
+
 creating doomsday
+
+preparing for doomsday
+
