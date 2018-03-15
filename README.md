@@ -1,7 +1,7 @@
 # exercise-repo
 repo made for exercise
 
-!boom!
+!boom!;
 
 *task switched to develop
 master edit
